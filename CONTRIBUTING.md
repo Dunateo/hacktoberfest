@@ -7,3 +7,8 @@
 - Styling / code can be pretty, ugly or stupid, big or small as long as it works
 - Add your name to the contributers.html file
 - Add images
+
+#### Name: [BRU Valentin](https://github.com/Dunateo)
+- Place: Toulon, Var, France
+- Bio: Computer Science Student Cybersecurity in ISEN Toulon
+- GitHub: [BRU Valentin](https://github.com/Dunateo)
